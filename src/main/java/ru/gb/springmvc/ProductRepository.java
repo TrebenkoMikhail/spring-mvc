@@ -1,5 +1,4 @@
 package ru.gb.springmvc;
-
 import java.util.ArrayList;
 import java.util.List;
 

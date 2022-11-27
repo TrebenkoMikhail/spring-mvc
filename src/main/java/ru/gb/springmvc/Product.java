@@ -1,8 +1,6 @@
 package ru.gb.springmvc;
 
-import org.springframework.stereotype.Controller;
 
-@Controller
 public class Product {
 
     private int id;
