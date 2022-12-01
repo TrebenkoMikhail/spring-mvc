@@ -1,4 +1,4 @@
-package ru.gb.springmvc;
+package springBoot;
 
 
 public class Product {
